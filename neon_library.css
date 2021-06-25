@@ -1,0 +1,265 @@
+.neon_purple{
+    color: white;
+text-shadow:
+ 0 0 21px white,
+ 0 0 7px white,
+ 0 0 15px darkmagenta,
+ 0 0 42px darkmagenta,
+ 0 0 82px darkmagenta;
+}
+.neon_cyan{
+color: white;
+text-shadow:
+0 0 21px white,
+0 0 7px white,
+ 0 0 21px cyan,
+ 0 0 7px cyan,
+ 0 0 15px cyan,
+ 0 0 42px cyan,
+ 0 0 82px cyan;
+}
+.neon_green{
+color: white;
+text-shadow:
+0 0 21px white,
+0 0 7px white,
+ 0 0 21px green,
+ 0 0 7px green,
+ 0 0 15px green,
+ 0 0 42px green,
+ 0 0 82px green;
+}
+.neon_pink{
+color: white;
+text-shadow:
+0 0 21px white,
+0 0 7px white,
+ 0 0 21px palevioletred,
+ 0 0 7px palevioletred,
+ 0 0 15px palevioletred,
+ 0 0 42px palevioletred,
+ 0 0 82px palevioletred;
+}
+.neon_red{
+color: white;
+text-shadow:
+0 0 21px white,
+0 0 7px white,
+0 0 21px red,
+0 0 7px  red,
+0 0 15px red,
+0 0 42px red,
+0 0 82px red;
+}
+.neon_blue{
+    color: white;
+    text-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px blue,
+     0 0 7px blue,
+     0 0 15px blue,
+     0 0 42px blue,
+     0 0 82px blue;
+}
+.neon_blueviolet{
+    color: #ffffff;
+    text-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px blueviolet,
+     0 0 7px blueviolet,
+     0 0 15px blueviolet,
+     0 0 42px blueviolet,
+     0 0 82px blueviolet;
+}
+.neon_yellow{
+    color: white;
+    text-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px yellow,
+     0 0 7px yellow,
+     0 0 15px yellow,
+     0 0 42px yellow,
+     0 0 82px yellow;
+}
+.neon_boxshadow-grape{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px purple,
+     0 0 7px purple,
+     0 0 15px purple,
+     0 0 42px purple,
+     0 0 82px purple;
+}
+.neon_boxshadow-radish{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px magenta,
+     0 0 7px magenta,
+     0 0 15px magenta,
+     0 0 42px magenta,
+     0 0 82px magenta;
+}
+.positive{
+    color: palevioletred;
+}
+.positive:hover{
+    color: magenta;
+}
+.neon_pinkred{
+    color: white;
+    text-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px magenta,
+     0 0 7px magenta,
+     0 0 15px magenta,
+     0 0 42px magenta,
+     0 0 82px magenta;
+}
+.neon_boxshadow-orange{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px orange,
+     0 0 7px orange,
+     0 0 15px orange,
+     0 0 42px orange,
+     0 0 82px orange;
+}
+.neon_boxshadow-kiwi{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px mediumseagreen,
+     0 0 7px mediumseagreen,
+     0 0 15px mediumseagreen,
+     0 0 42px mediumseagreen,
+     0 0 82px mediumseagreen;
+}
+.neon_boxshadow-blueberry{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px blue,
+     0 0 7px blue,
+     0 0 15px blue,
+     0 0 42px blue,
+     0 0 82px blue;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.neon_boxshadow-pomegranate{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px red,
+     0 0 7px red,
+     0 0 15px red,
+     0 0 42px red,
+     0 0 82px red;
+}
+.neon_boxshadow-coconut{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px white,
+     0 0 7px white,
+     0 0 15px white,
+     0 0 42px white,
+     0 0 82px white;
+}
+.neon_head{
+    font-size: 100px;
+    text-align: center;
+}
+.neon_footer{
+    font-size: 23px;
+    text-align: center;
+    top: 100%;
+}
+.neon_orange{
+    color: white;
+    text-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px orange,
+     0 0 7px orange,
+     0 0 15px orange,
+     0 0 42px orange,
+     0 0 82px orange;
+}
+.btnstyle{
+    width: 500px;
+    height: 130px;
+    border-radius: 20px;
+    font-size: xx-large;
+}
+.btnstyle:hover{
+background-color: red;
+}
+.danger{
+    color: red;
+}
+.text-center{
+    text-align: center;
+}
+.danger:hover{
+    color: orange;
+}
+.success{
+    color: green;
+}
+.success:hover{
+    color: cornflowerblue;
+}
+.primary{
+    color: blue;
+}
+.warning{
+    color: orangered;
+}
+.warning:hover{
+    color: yellow;
+}
+.primary:hover{
+    color: blueviolet;
+}
+.bullet{
+    color: white;
+}
+.bullet:hover{
+    color: gray;
+}
+.neon_boxshadow-lemon{
+    color: white;
+    box-shadow:
+    0 0 21px white,
+    0 0 7px white,
+     0 0 21px yellow,
+     0 0 7px yellow,
+     0 0 15px yellow,
+     0 0 42px yellow,
+     0 0 82px yellow;
+}
+.embarass{
+    color: yellow;
+}
+.embarass:hover{
+    color:  yellowgreen;
+}
